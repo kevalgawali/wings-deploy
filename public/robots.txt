@@ -1,0 +1,45 @@
+# robots.txt for wings2k26.com
+# WINGS - Technical Fest Website
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin and API routes
+Disallow: /admin
+Disallow: /super-admin
+Disallow: /viewers-admin
+Disallow: /login
+Disallow: /logout
+Disallow: /api/
+
+# Disallow registration API endpoints
+Disallow: /register/
+Disallow: /viewer/
+
+# Sitemap location
+Sitemap: https://wings2k26.com/sitemap.xml
+
+# Crawl delay (optional - be polite to servers)
+Crawl-delay: 1
+
+# Host directive (for Yandex)
+Host: https://wings2k26.com

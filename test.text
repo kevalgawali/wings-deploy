@@ -1,0 +1,34 @@
+{
+  "teamName": "stranger",
+  "utr": "4i2l91pp2613",
+  "leader": {
+    "name": "Rushikesh Gaikwad",
+    "gender": "M",
+    "email": "rushaji914664@gmail.com",
+    "phone": "+91 4532457865",
+    "college": "GECA",
+    "branch": "CSE"
+  },
+  "members": {
+    "member_1": {
+      "name": "Akash Patil",
+      "gender": "M",
+      "phone": "+91 9876543210"
+    },
+    "member_2": {
+      "name": "Sanket Deshmukh",
+      "gender": "M",
+      "phone": "+91 9123456789"
+    },
+    "member_3": {
+      "name": "Rohit Shinde",
+      "gender": "M",
+      "phone": "+91 9988776655"
+    },
+    "member_4": {
+      "name": "Pratiksha Kulkarni",
+      "gender": "F",
+      "phone": "+91 9090909090"
+    }
+  }
+}
