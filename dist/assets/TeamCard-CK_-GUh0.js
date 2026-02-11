@@ -1,0 +1,36 @@
+import{j as n}from"./index-D5YVoB1-.js";const u=({member:e,index:s})=>{const t=e.name==="Gangaprasad Urekar"?{objectPosition:"50% 1%"}:e.name==="Dr. D. R. Uike"?{objectPosition:"50% 29%"}:e.name==="DR. N. R. BHASME"?{objectPosition:"50% 20%"}:e.name==="Keval Gawali"?{objectPosition:"50% 18%"}:e.name==="Satyam Chakure"?{objectPosition:"50% 3%"}:e.name==="Vardhit Nagar"?{objectPosition:"50% 1%"}:e.name==="spon1"?{objectPosition:"50% 35%"}:e.name==="spon3"?{objectPosition:"50% 15%"}:e.name==="mark1"?{objectPosition:"50% 1%"}:e.name==="mark3"?{objectPosition:"50% 1%"}:{objectPosition:"50% 20%"},o=e.name==="mark2"?"scale-150":"",a=e.name==="mark2"?"group-hover:scale-120":"group-hover:scale-110",i=e.name==="mark2"?"pb-10 sm:pb-8":"";return n.jsxDEV("div",{className:`
+        group relative
+        w-full
+        h-full
+        flex flex-col
+        rounded-xl overflow-hidden
+        bg-gradient-to-br from-[#0a1628] to-[#030712]
+        border border-blue-500/20
+        shadow-lg
+        transition-all duration-500 ease-out
+        hover:-translate-y-3
+        hover:border-cyan-400/60
+        hover:shadow-2xl hover:shadow-cyan-500/20
+      `,style:{animationDelay:`${s*.1}s`,animationFillMode:"both"},children:[n.jsxDEV("div",{className:"absolute top-0 left-0 w-4 h-4 border-t-2 border-l-2 border-cyan-500/40 rounded-tl-lg z-20 transition-all duration-300 group-hover:w-6 group-hover:h-6 group-hover:border-cyan-400"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:60,columnNumber:7},void 0),n.jsxDEV("div",{className:"absolute top-0 right-0 w-4 h-4 border-t-2 border-r-2 border-cyan-500/40 rounded-tr-lg z-20 transition-all duration-300 group-hover:w-6 group-hover:h-6 group-hover:border-cyan-400"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:61,columnNumber:7},void 0),n.jsxDEV("div",{className:"absolute bottom-0 left-0 w-4 h-4 border-b-2 border-l-2 border-cyan-500/40 rounded-bl-lg z-20 transition-all duration-300 group-hover:w-6 group-hover:h-6 group-hover:border-cyan-400"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:62,columnNumber:7},void 0),n.jsxDEV("div",{className:"absolute bottom-0 right-0 w-4 h-4 border-b-2 border-r-2 border-cyan-500/40 rounded-br-lg z-20 transition-all duration-300 group-hover:w-6 group-hover:h-6 group-hover:border-cyan-400"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:63,columnNumber:7},void 0),n.jsxDEV("div",{className:"absolute inset-0 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none z-10",style:{background:"linear-gradient(135deg, rgba(6,182,212,0.15) 0%, transparent 50%, rgba(59,130,246,0.15) 100%)"}},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:66,columnNumber:7},void 0),n.jsxDEV("div",{className:"relative w-full aspect-square overflow-hidden bg-gradient-to-br from-[#0a1628] to-[#030712] flex-shrink-0 ",children:[n.jsxDEV("div",{className:"absolute inset-0 bg-gradient-to-t from-[#030712] via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-500"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:75,columnNumber:9},void 0),n.jsxDEV("img",{src:e.image,alt:e.name,loading:"lazy",className:`w-full h-full object-cover object-center transition-all duration-700 ease-out ${o} ${a} filter group-hover:brightness-110 group-hover:contrast-105`,style:t},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:78,columnNumber:9},void 0),n.jsxDEV("div",{className:"absolute inset-0 bg-gradient-to-tr from-cyan-500/0 via-transparent to-blue-500/0 group-hover:from-cyan-500/10 group-hover:to-blue-500/10 transition-all duration-500 z-10"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:87,columnNumber:9},void 0)]},void 0,!0,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:73,columnNumber:7},void 0),n.jsxDEV("div",{className:"relative bg-gradient-to-b from-[#0a1628] to-[#030712] border-t border-blue-500/20 flex-1 flex flex-col justify-center",children:[n.jsxDEV("div",{className:"absolute top-0 left-1/2 -translate-x-1/2 w-0 h-0.5 bg-gradient-to-r from-cyan-400 to-blue-500 group-hover:w-full transition-all duration-500 ease-out"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:93,columnNumber:9},void 0),n.jsxDEV("div",{className:`p-4 sm:p-5 ${i} flex flex-col items-center justify-center`,children:[n.jsxDEV("h3",{className:`
+              text-sm
+              sm:text-base
+              md:text-lg
+              font-bold
+              text-white
+              text-center
+              transition-all duration-300
+              group-hover:text-cyan-400
+              group-hover:tracking-wide
+            `,children:e.name},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:96,columnNumber:11},void 0),e.phone&&n.jsxDEV("p",{className:"text-sm sm:text-[13px] text-cyan-300 text-center mt-1 font-medium",children:n.jsxDEV("a",{href:`tel:${e.phone.replace(/\s+/g,"")}`,className:"hover:underline",children:e.phone},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:114,columnNumber:15},void 0)},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:113,columnNumber:13},void 0),n.jsxDEV("p",{className:`
+              text-[10px]
+              sm:text-xs
+              text-gray-500
+              text-center
+              font-mono
+              tracking-widest
+              uppercase
+              mt-2
+              transition-all duration-300
+              group-hover:text-gray-400
+              group-hover:tracking-[0.2em]
+            `,children:e.role},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:118,columnNumber:11},void 0)]},void 0,!0,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:95,columnNumber:9},void 0),n.jsxDEV("div",{className:"absolute bottom-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-cyan-400/0 to-transparent group-hover:via-cyan-400/50 transition-all duration-500"},void 0,!1,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:138,columnNumber:9},void 0)]},void 0,!0,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:91,columnNumber:7},void 0)]},void 0,!0,{fileName:"C:/Users/victus/Desktop/wings/website/geca-wings-website-2026/components/TeamCard.tsx",lineNumber:39,columnNumber:5},void 0)};export{u as T};
