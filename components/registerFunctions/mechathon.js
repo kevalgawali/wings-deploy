@@ -8,8 +8,8 @@ const mechathon = async (req, res) => {
         console.log("[MECHATHON] Registration request:", { teamName, leaderName: leader?.name });
         
         const filterConfig = {
-            minMembers: 2,
-            maxMembers: 5,
+            minMembers: 3,
+            maxMembers: 6,
             minFemale: 0
         };
         

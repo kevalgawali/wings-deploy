@@ -9,7 +9,7 @@ const lineFollower = async (req, res) => {
         
         const filterConfig = {
             minMembers: 2,
-            maxMembers: 4,
+            maxMembers: 3,
             minFemale: 0
         };
         

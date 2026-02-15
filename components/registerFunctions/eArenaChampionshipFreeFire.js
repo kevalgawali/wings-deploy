@@ -9,7 +9,7 @@ const eArenaChampionshipFreeFire = async (req, res) => {
         
         const filterConfig = {
             minMembers: 1,
-            maxMembers: 4,
+            maxMembers: 5,
             minFemale: 0
         };
         

@@ -9,7 +9,7 @@ const quizOMania = async (req, res) => {
         
         const filterConfig = {
             minMembers: 3,
-            maxMembers: 4,
+            maxMembers: 3,
             minFemale: 0
         };
         
